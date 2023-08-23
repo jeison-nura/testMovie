@@ -1,0 +1,22 @@
+.cardImage{
+    width: 100%;
+    border-radius: 8px;
+    height: auto;
+}
+
+.cardText {
+    padding: 3%;
+    height: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.content {
+    border-radius: 8px;
+    background-color: gray;
+}
+
+.button {
+    color: white !important;
+}

@@ -1,0 +1,21 @@
+.navContainer {
+    background-color: gray;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navIcon {
+    color: black !important;
+}
+
+.navInput {
+    padding: 15px;
+}
+
+.navButton{
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+}
